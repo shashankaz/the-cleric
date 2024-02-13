@@ -6,8 +6,8 @@ const FeaturedProducts = ({ type }) => {
   const data = [
     {
       id: 1,
-      img: "https://images.pexels.com/photos/3053485/pexels-photo-3053485.jpeg?auto=compress&cs=tinysrgb&w=800",
-      img2: "https://images.pexels.com/photos/1758144/pexels-photo-1758144.jpeg?auto=compress&cs=tinysrgb&w=800",
+      img: "https://images.pexels.com/photos/3053485/pexels-photo-3053485.jpeg",
+      img2: "https://images.pexels.com/photos/1758144/pexels-photo-1758144.jpeg",
       title: "Long Sleeve Graphic T-shirt",
       isNew: true,
       oldPrice: 1900,
@@ -15,8 +15,8 @@ const FeaturedProducts = ({ type }) => {
     },
     {
       id: 2,
-      img: "https://images.pexels.com/photos/1918084/pexels-photo-1918084.jpeg?auto=compress&cs=tinysrgb&w=800",
-      img2: "https://images.pexels.com/photos/1758144/pexels-photo-1758144.jpeg?auto=compress&cs=tinysrgb&w=800",
+      img: "https://images.pexels.com/photos/1918084/pexels-photo-1918084.jpeg",
+      img2: "https://images.pexels.com/photos/1758144/pexels-photo-1758144.jpeg",
       title: "Long Sleeve Graphic T-shirt",
       isNew: true,
       oldPrice: 1900,
@@ -24,8 +24,8 @@ const FeaturedProducts = ({ type }) => {
     },
     {
       id: 3,
-      img: "https://images.pexels.com/photos/1642228/pexels-photo-1642228.jpeg?auto=compress&cs=tinysrgb&w=800",
-      img2: "https://images.pexels.com/photos/1758144/pexels-photo-1758144.jpeg?auto=compress&cs=tinysrgb&w=800",
+      img: "https://images.pexels.com/photos/1642228/pexels-photo-1642228.jpeg",
+      img2: "https://images.pexels.com/photos/1758144/pexels-photo-1758144.jpeg",
       title: "Long Sleeve Graphic T-shirt",
       isNew: true,
       oldPrice: 1900,
@@ -33,8 +33,8 @@ const FeaturedProducts = ({ type }) => {
     },
     {
       id: 4,
-      img: "https://images.pexels.com/photos/3252785/pexels-photo-3252785.jpeg?auto=compress&cs=tinysrgb&w=800",
-      img2: "https://images.pexels.com/photos/1758144/pexels-photo-1758144.jpeg?auto=compress&cs=tinysrgb&w=800",
+      img: "https://images.pexels.com/photos/3252785/pexels-photo-3252785.jpeg",
+      img2: "https://images.pexels.com/photos/1758144/pexels-photo-1758144.jpeg",
       title: "Long Sleeve Graphic T-shirt",
       isNew: true,
       oldPrice: 1900,
