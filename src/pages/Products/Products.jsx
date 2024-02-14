@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom";
 import "./Products.scss";
 import List from "../../components/List/List";
 
-const products = () => {
+const Products = () => {
   const catId = parseInt(useParams().id);
   const [maxprice, setMaxprice] = useState(1000);
   const [sort, setSort] = useState(null);
@@ -75,4 +75,4 @@ const products = () => {
   );
 };
 
-export default products;
+export default Products;

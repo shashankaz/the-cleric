@@ -4,7 +4,7 @@ import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart";
 import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";
 import BalanceIcon from "@mui/icons-material/Balance";
 
-const product = () => {
+const Product = () => {
   const [selectedImg, setSelectedImg] = useState(0);
   const [quantity, setQuantity] = useState(1);
   const images = [
@@ -72,4 +72,4 @@ const product = () => {
   );
 };
 
-export default product;
+export default Product;
